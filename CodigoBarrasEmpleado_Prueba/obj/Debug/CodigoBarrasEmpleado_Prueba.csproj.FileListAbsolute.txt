@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\CodigoBarrasEmpleado_Prueba\CodigoBarrasEmpleado_Prueba\bin\Debug\CodigoBarrasEmpleado_Prueba.exe.config
+C:\Users\Admin\source\repos\CodigoBarrasEmpleado_Prueba\CodigoBarrasEmpleado_Prueba\bin\Debug\CodigoBarrasEmpleado_Prueba.exe
+C:\Users\Admin\source\repos\CodigoBarrasEmpleado_Prueba\CodigoBarrasEmpleado_Prueba\bin\Debug\CodigoBarrasEmpleado_Prueba.pdb
+C:\Users\Admin\source\repos\CodigoBarrasEmpleado_Prueba\CodigoBarrasEmpleado_Prueba\obj\Debug\CodigoBarrasEmpleado_Prueba.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CodigoBarrasEmpleado_Prueba\CodigoBarrasEmpleado_Prueba\obj\Debug\CodigoBarrasEmpleado_Prueba.Form1.resources
+C:\Users\Admin\source\repos\CodigoBarrasEmpleado_Prueba\CodigoBarrasEmpleado_Prueba\obj\Debug\CodigoBarrasEmpleado_Prueba.Properties.Resources.resources
+C:\Users\Admin\source\repos\CodigoBarrasEmpleado_Prueba\CodigoBarrasEmpleado_Prueba\obj\Debug\CodigoBarrasEmpleado_Prueba.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CodigoBarrasEmpleado_Prueba\CodigoBarrasEmpleado_Prueba\obj\Debug\CodigoBarrasEmpleado_Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CodigoBarrasEmpleado_Prueba\CodigoBarrasEmpleado_Prueba\obj\Debug\CodigoBarrasEmpleado_Prueba.exe
+C:\Users\Admin\source\repos\CodigoBarrasEmpleado_Prueba\CodigoBarrasEmpleado_Prueba\obj\Debug\CodigoBarrasEmpleado_Prueba.pdb
+C:\Users\Admin\source\repos\CodigoBarrasEmpleado_Prueba\CodigoBarrasEmpleado_Prueba\bin\Debug\zxing.dll
+C:\Users\Admin\source\repos\CodigoBarrasEmpleado_Prueba\CodigoBarrasEmpleado_Prueba\bin\Debug\zxing.presentation.dll
+C:\Users\Admin\source\repos\CodigoBarrasEmpleado_Prueba\CodigoBarrasEmpleado_Prueba\bin\Debug\zxing.xml
+C:\Users\Admin\source\repos\CodigoBarrasEmpleado_Prueba\CodigoBarrasEmpleado_Prueba\bin\Debug\zxing.presentation.xml
+C:\Users\Admin\source\repos\CodigoBarrasEmpleado_Prueba\CodigoBarrasEmpleado_Prueba\obj\Debug\CodigoBarrasEmpleado_Prueba.csproj.CopyComplete
+C:\Users\Admin\source\repos\CodigoBarrasEmpleado_Prueba\CodigoBarrasEmpleado_Prueba\bin\Debug\QRCoder.dll
